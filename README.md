@@ -12,7 +12,7 @@
  
 Detecting and identifying novel objects in space by combining **visual data** (images), **orbital data** (TLE histories), and **space-environment data** (space weather, Earth orientation), and then working out what each object is, how it behaves, and what happens to it next.
  
-> Items in **[square brackets]** are for the project team to complete. The end-of-life and re-entry module is the only component documented in detail so far. References marked † have a confirmed title and authors, but check year, volume, and pages against the source before citing.
+
  
 ## Why combine images and orbital data
  
