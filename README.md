@@ -45,7 +45,7 @@ Public catalogues track a large but incomplete population, and they say little a
  
 | Modality | Examples | Used for | Status |
 |---|---|---|---|
-| Visual | [ground-based telescope frames/survey archives / spaceborne camera images: state which] | Detection of objects and streaks, recognition, photometry | [status] |
+| Visual | [ground-based telescope frames/survey archives / spaceborne camera images] | Detection of objects and streaks, recognition, photometry | [status] |
 | Orbital | TLE histories (for example Space-Track), catalogue cross-sections and mass (ESA DISCOS) | Cross-identification, manoeuvre and regime detection, orbit and lifetime forecasting | Implemented for the end-of-life module |
 | Space environment | CelesTrak space weather (F10.7, ap), Earth orientation parameters, NRLMSIS 2.0 density | Drag physics and decay forecasting | Implemented for the end-of-life module |
  
