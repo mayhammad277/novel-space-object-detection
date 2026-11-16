@@ -32,13 +32,13 @@ Public catalogues track a large but incomplete population, and they say little a
       unmatched detections are candidate novel objects                                  [describe]
         |
         v
-[2] Identification        what is it? spacecraft, rocket body, debris type; from images and orbit   [describe]
+[2] Identification        what is it? spacecraft, rocket body, debris type; from images and orbit  
         |
         v
-[3] Behaviour characterisation   operated, deorbiting or decaying?                    (implemented, see below)
+[3] Behaviour characterisation   operated, deorbiting or decaying?                   
         |
         v
-[4] Fate forecasting             future orbit, remaining life, re-entry time and position  (implemented, see below)
+[4] Fate forecasting             future orbit, remaining life, re-entry time and position 
 ```
  
 ## Data modalities
