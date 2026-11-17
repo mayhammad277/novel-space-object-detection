@@ -136,17 +136,14 @@ python src/predict_mt.py data/tles_44735.txt
 19. Guo, C., Pleiss, G., Sun, Y., Weinberger, K. Q. (2017). On calibration of modern neural networks. *International Conference on Machine Learning*.
 ## Contributing
  
-[Describe how to report issues, propose changes and run tests.]
  
 ## Citation
  
-[Add a citation or `CITATION.cff` once there is a paper or report to cite.]
  
 ## License
  
-[Choose a licence, for example MIT or Apache-2.0, and add a `LICENSE` file.]
  
 ## Acknowledgements
  
-NRLMSIS 2.0, SGP4, CelesTrak and ESA DISCOS. [Add collaborators, image-data providers and funders.]
+NRLMSIS 2.0, SGP4, CelesTrak and ESA DISCOS.
  
